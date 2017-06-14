@@ -1,7 +1,5 @@
-#include <cstdio>
-#include <string>
-#include <iostream>
-#include <map>
+#include <bits/stdc++.h>
+
 using namespace std;
 
 typedef pair<string, int> psi;
