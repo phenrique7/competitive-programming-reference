@@ -1,4 +1,4 @@
-/*	TSP (Competitive) Usando vertices como coordenadas */
+/* TSP (Competitive) Usando vertices como coordenadas */
 
 #include <bits/stdc++.h>
 
