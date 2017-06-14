@@ -1,2 +1,2 @@
 # algoritmos-maratona
-Algoritmos utilizados na maratona de programação
+Algoritmos e códigos utilizados na maratona de programação
