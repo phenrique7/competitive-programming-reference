@@ -12,10 +12,10 @@ int buscaBinaria(int nn, int chave){
 		int meio = esq + (dir - esq) / 2;
 		if(v[meio] == chave){
 			/* encontrar primeira ocorrencia
-  			while(meio - 1 != -1 && chave == p[meio - 1]){
+			while(meio - 1 != -1 && chave == p[meio - 1]){
 				meio--;  				
-  			}
-  			*/
+			}
+			*/
 			return meio;
 		}
 		else if(chave < v[meio]){
