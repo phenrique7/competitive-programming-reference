@@ -1,5 +1,5 @@
-#include <stdio.h>      /* printf */
-#include <stdlib.h>     /* qsort, bsearch, NULL */
+#include <stdio.h>
+#include <stdlib.h>
 
 int v[] = {50, 20, 60, 40, 10, 30};
 
